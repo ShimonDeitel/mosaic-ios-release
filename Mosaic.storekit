@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "MOSAIC_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "mosaic_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock the full word archive, unlimited hidden-word challenges, favorites and sharing. One-time purchase.",
+          "displayName" : "Mosaic Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "mosaic_pro_unlock",
+      "referenceName" : "Mosaic Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
